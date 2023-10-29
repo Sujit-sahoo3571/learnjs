@@ -10,6 +10,14 @@ console.table([studentName, studentId, emailId, password ])
 studentName ='Believer_7855';
 emailId='badass@6766.com';
 password='withinyou';
+let guessTheValue ; 
 
+
+/*
+prefer not to use var instead use const and let. also only name (password) here is 
+possible but not recomonded.
+
+
+*/
 console.log(studentId);
-console.table([studentName, studentId, emailId, password ])
+console.table([studentName, studentId, emailId, password, guessTheValue ])
