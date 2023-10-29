@@ -9,5 +9,7 @@ let isError = true;
 let definy = undefined;
 let str = null; 
 // symbol  to mark as unique 
-
+console.log(typeof "sujit");
+console.log(typeof null )
+console.log(typeof undefined )
 console.table([name, age, balance, isLogin , isError , definy, str ]);
